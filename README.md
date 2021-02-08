@@ -2,7 +2,7 @@
 
 ![Doctor Arm](public/img/9arm.JPG)
 
-Let's blow your ear with doctor sound!
+Let's blow your ear with some doctor sound!
 
 ## Disclaimer
 
@@ -30,6 +30,7 @@ and to run live preview with snowpack
 
 ```shell
 npm start
+
 ```
 
 or to build a website use this command
@@ -37,3 +38,7 @@ or to build a website use this command
 ```shell
 npm run build
 ```
+
+# Contribution
+
+You can fork, add some new epic doctor sound and send a pull request to merge to a main website.
