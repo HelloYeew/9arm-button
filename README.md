@@ -12,9 +12,9 @@ Code in this website is copy from these two repositories.
 
 ## Live Website
 
-<!-- Netlify Status Here -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/960c3574-645a-41e2-8f96-ec21a9cc2b68/deploy-status)](https://app.netlify.com/sites/9arm-button/deploys)
 
-<!-- [http://vtuber-button.helloyeew.dev](http://vtuber-button.helloyeew.dev) -->
+[https://9arm-button.netlify.app/](https://9arm-button.netlify.app/)
 
 ## For Development
 
